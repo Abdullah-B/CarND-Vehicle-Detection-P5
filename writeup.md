@@ -1,5 +1,5 @@
 # Advanced Lane Detection
----
+
 [//]: # (Image References)
 
 [image1]: undistorted.png "Undistorted"
@@ -9,6 +9,7 @@
 [image5]: Slidingwindow.png "Sliding Window"
 [image6]: visualize.png "visualization of predictions"
 [image7]: drawingLine.png "Drawing lines"
+
 ---
  ##
  this project will look through a video and identify the lanes in front of the car 
