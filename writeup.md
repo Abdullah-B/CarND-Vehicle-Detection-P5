@@ -1,5 +1,5 @@
 # Advanced Lane Detection
-
+---
 [//]: # (Image References)
 
 [image1]: undistorted.png "Undistorted"
@@ -9,10 +9,11 @@
 [image5]: Slidingwindow.png "Sliding Window"
 [image6]: visualize.png "visualization of predictions"
 [image7]: drawingLine.png "Drawing lines"
+---
+ ##
+ this project will look through a video and identify the lanes in front of the car 
 
-this project will look through a video and identify the lanes in front of the car 
-
-the process goes as follows 
+   # The process goes as follows 
 
 	First it will calibrate the camera using 9 by 6 chess board(see output_images/calibration_lines folder) the matrix and distortion coefficients.
 	
